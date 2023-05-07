@@ -3,7 +3,7 @@
 This package contains a variety of tools meant to simplify sprite animation(or simply to produce sprite art).
 Starting from a non-sprite asset, one can use the functions in the Python program to
 produce sprites which may be put together in an animation editor. Additionally, assets may be put into Unity,
-for which there is a Spritify shader. After the shader is applied, animations may be acquired easily.
+for which there is a Spritify shader. After the shader is applied, sprite animations may be acquired easily.
 
 ## Functions
 Current functions in the Python program are:
