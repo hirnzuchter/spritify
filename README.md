@@ -1,4 +1,4 @@
-# spritify
+# Spritify
 
 This package contains a variety of tools meant to simplify sprite animation(or simply to produce sprite art).
 Starting from a non-sprite asset, one can use the functions in the Python program to
